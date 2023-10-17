@@ -1,0 +1,45 @@
+                                                   Credit Risk Analysis Project Summary
+
+
+
+Objective: To develop a credit risk analysis model to predict the probability of a borrower defaulting on their loan obligations.
+
+Methodology: The project used a variety of statistical and machine learning techniques to develop the credit risk analysis model. The data used to train the model included historical data on loan defaults, as well as borrower characteristics such as credit history, income, and debt.
+
+Results: The credit risk analysis model was able to accurately predict the probability of loan default with a high degree of accuracy. The model was also able to identify the key factors that are associated with credit risk.
+
+Conclusion: The credit risk analysis model developed in this project can be used by lenders to make informed decisions about who to lend to and on what terms. The model can also be used by investors to assess the risk of investing in corporate bonds.
+
+Recommendations: The credit risk analysis model can be further improved by incorporating additional data sources, such as social media data and alternative credit data. The model can also be used to develop more sophisticated credit risk models, such as models that can predict the timing of loan defaults.
+
+Additional Benefits: The credit risk analysis model can also be used to:
+
+Reduce the number of loan defaults
+Improve the efficiency of the lending process
+Price loans more accurately
+Develop new credit products and services
+Reduce the risk of fraud
+Overall, the credit risk analysis project was a success. The project developed a credit risk analysis model that is accurate, efficient, and scalable. The model can be used by lenders and investors to make better decisions about who to lend to and invest in.
+
+
+Reserch Summary:
+
+Chances of client havind payment difficulty
+All the below variables were established in analysis of Application dataframe as leading to default. Checked these against the Approved loans which have defaults, and it proves to be correct
+
+>Medium income
+>25-35 years olds, followed by 35-45 years age group
+>Male
+>Unemployed
+>Labourers, Salesman, Drivers
+>Own House - No
+>Other IMPORTANT Factors to be considered
+No of Bureau Hits in last week. Month etc – zero hits is good
+Amount income not correspondingly equivalent to Good Bought – Income 'Low' and 'High' is a concern
+Previous applications with Refused, Cancelled, Unused loans also have default which is a matter of concern.
+This indicates that the financial company had Refused/Cancelled previous application but has approved the current and is facing default on these.
+Credible Applications refused
+Unused applications have lower loan amount. Is this the reason for no usage?
+Female applicants should be given extra weightage as defaults are lesser.
+Students and Business mean have no problem in repayment of the loan
+Previous applications with Refused, Cancelled, Unused loans also have cases where payments are coming on time in current application. This indicates that possibly wrong decisions were done in those cases.
